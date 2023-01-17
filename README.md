@@ -1,2 +1,2 @@
 # hello-world
-This is beginner's repository
+This is hello world program.
